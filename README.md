@@ -7,7 +7,10 @@ Jongyun (Max) Han — 맥스와옴니스 주식회사 / Max & Omnis Inc.
 April 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19661389.svg)](https://zenodo.org/records/19661389)
+[![SSRN](https://img.shields.io/badge/SSRN-6555479-orange)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6555479)
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+*The Zenodo record and this repository hold the current version (v7). The SSRN listing is an earlier draft.*
 
 ## What this is
 
@@ -34,7 +37,7 @@ The preprint also presents **DeltaNet-LoRA**, a mechanism-isolation prototype th
 
 ## Citation
 
-Please cite the Zenodo record:
+Please cite the Zenodo record (current version):
 
 ```bibtex
 @misc{han2026parameter,
@@ -48,6 +51,8 @@ Please cite the Zenodo record:
   url          = {https://zenodo.org/records/19661389}
 }
 ```
+
+The paper is also indexed on SSRN (earlier draft): <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6555479>.
 
 ## Code availability
 
